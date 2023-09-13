@@ -99,13 +99,13 @@ Este primer KPI nos indica principalmente como varia la cantidad de victimas cad
 
 De los 12 semestres que se tienen datos se puede ver que en solo 5 se logro el KPI. Se puede ver que del 2016 al 2018 hay poco cambio, siendo el primer semestre del 2020 el cual hubo una mayor disminución de siniestros aunque esto es atribuible a la pandemia por COVID más que porque hayan mejorado las condiciones viales.
 
-## EL SEGUNDO KPI: 
+## EL SEGUNDO KPI 
 
 La cantidad de accidentes mortales de motociclistas en siniestros viales se define como el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas que viajaban en moto en un determinado periodo temporal. Su fórmula para medir la evolución de los accidentes mortales con víctimas en moto es: (Número de accidentes mortales con víctimas en moto en el año anterior - Número de accidentes mortales con víctimas en moto en el año actual) / (Número de accidentes mortales con víctimas en moto en el año anterior) * 100.
 
 Se puede observar que los primeros años desde que se tienen mediciones (2016-2019) el valor no ha variado mucho, el porque el no se ve tanta variación en 2019 puede deberse que aunque estaba la pandemia por COVID muchos viajaban en motocicleta como servicios de delivery. Despues el 2020 donde se llevo un confinamiento más estricto se ve una gran disminución de eventos. Lo preocupante de la medición de este KPI es que se puede ver que tiene una tendencia a la alza los últimos años por lo que se deben tomar medidas para empezar a disminuir el numero de estos incidentes.
 
-## EL TERCER KPI: 
+## EL TERCER KPI 
 
 La tasa de homicidios en siniestros viales es el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico. Su fórmula es: (Número de homicidios en siniestros viales / Población total) * 100,000.
 
