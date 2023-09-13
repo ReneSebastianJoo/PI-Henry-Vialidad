@@ -13,9 +13,9 @@
     <li><a href="#Conjunto de Tecnologías">Conjunto de Tecnologías</a></li>
     <li><a href="#EDA">EDA</a></li>
     <li><a href="#KPIs">KPIs</a></li>
-    <li><a href="#EL PRIMER KPI">KPI 1</a></li>
-    <li><a href="#EL SEGUNDO KPI">KPI 2</a></li>
-    <li><a href="#EL TERCER KPI">KPI 3</a></li>
+    <li><a href="#EL PRIMER KPI">EL PRIMER KPI</a></li>
+    <li><a href="#EL SEGUNDO KPI">EL SEGUNDO KPI</a></li>
+    <li><a href="#EL TERCER KPI">EL TERCER KPI</a></li>
     <li><a href="#Dashboard">Dashboard</a></li>
     <li><a href="#Conclusiones">Conclusiones</a></li>
   </ol>
